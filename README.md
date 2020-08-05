@@ -1,16 +1,12 @@
-### Hi there 👋
+# Geovane Gadioli
 
-<!--
-**geokse/geokse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## E ai povo 👋
+Sou Programador Back-end e Arquiteto de Software  :computer:
+Sou um aspirante a Fullstack :blue_heart:
+ <br/>  :alien:  &nbsp; Estou trabalhando na **Sankhya**
+ <br/>  :computer: &nbsp; Minha stack: Java, PL/SQL, Node.js
+ <br/>  :globe_with_meridians: &nbsp; Estou estudando ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: sou cristão, pai de duas lindezas :family:, curto tecnologia, games :video_game:, RPG :dragon_face: e cultura geek em geral
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GeovaneGadioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovane-oliveira-santos/)](https://www.linkedin.com/in/geovane-oliveira-santos/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-geovane.santos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovane.santos@gmail.com)](mailto:geovane.santos@gmail.com)
