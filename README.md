@@ -1,6 +1,6 @@
 # Geovane Gadioli
 
-## E ai povo 👋
+## Fala galera 👋
 Sou Programador Back-end e Arquiteto de Software  :computer:
 Sou um aspirante a Fullstack :blue_heart:
  <br/>  :alien:  &nbsp; Estou trabalhando na **Sankhya**
