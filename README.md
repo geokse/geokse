@@ -2,7 +2,7 @@
 
 ## Fala galera 👋
 Sou Engenheiro de Software :computer: e Programador Fullstack :blue_heart:
- <br/>  :alien:  &nbsp; Estou trabalhando na **RecargaPay**
+ <br/>  :credit_card:  &nbsp; Estou trabalhando na **RecargaPay**
  <br/>  :computer: &nbsp; Minha stack: Java, PL/SQL, Node.js 
  <br/>  :globe_with_meridians: &nbsp; Estou me aprimorando ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: sou cristão, casado, pai de duas lindezas :family:, curto tecnologia, games :video_game:, RPG :dragon_face: e cultura geek em geral
